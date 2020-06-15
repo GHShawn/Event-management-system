@@ -1,9 +1,13 @@
 # Event management system
 ## Name: Shunyong Weng 
-Project description: This is a web application project builed using PHP for an event management system.
+## Project description: 
 
-The goal and the main function of this project is to allow different roles of user login to their account for viewing or changing 
-their event.
+This is a web application project builed using PHP for an event management system.
+
+The goal and the main function of this project is to allow different roles of user login to their account for viewing or changing their event or session.
+
+Each user has their unique interface and permission for the event.
+
 
 ## Permission on different roles of user
  - Admin 
